@@ -1,35 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Seja bem-vindo! Eu sou Guilherme
 
-###
+Profissional com interesse em tecnologia, automação, dados e inteligência artificial aplicada a processos.
 
-<p align="left">- Back-End Developer in training<br>- Formado em Analise e desenvolvimento de sistemas<br>- 22y<br>- Portuguese / English</p>
+## 📊 GitHub Stats
 
-###
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=onunis&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onunis&layout=compact&theme=tokyonight&hide_border=true)
 
-<h2 align="left">Languages & Tools</h2>
+## 🚀 Tecnologias
 
-###
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+---
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+- 📌 Interesse em tecnologia, produtividade e melhoria de processos
+- 🌱 Estudando automação, dados e IA aplicada ao trabalho
+- 🛠️ Explorando soluções práticas para eficiência operacional
+- 📂 Repositório com estudos, testes e projetos pessoais
