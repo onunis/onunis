@@ -1,6 +1,7 @@
-# Seja bem-vindo! Eu sou Guilherme
+# Hey, i'm Guilherme !
 
-Profissional com interesse em tecnologia, automação, dados e inteligência artificial aplicada a processos.
+- Python Enthusiast
+  
 
 ## 📊 GitHub Stats
 
@@ -14,10 +15,3 @@ Profissional com interesse em tecnologia, automação, dados e inteligência art
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-
----
-
-- 📌 Interesse em tecnologia, produtividade e melhoria de processos
-- 🌱 Estudando automação, dados e IA aplicada ao trabalho
-- 🛠️ Explorando soluções práticas para eficiência operacional
-- 📂 Repositório com estudos, testes e projetos pessoais
