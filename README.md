@@ -1,4 +1,4 @@
-# Hey, i'm Guilherme !
+# Hey, i'm Guilherme!
 
 - Python Enthusiast
   
