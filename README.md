@@ -1,6 +1,7 @@
 # Hey, i'm Guilherme!
 
 - Python Enthusiast
+- Learning FastAPI
   
 
 ## 📊 GitHub Stats
