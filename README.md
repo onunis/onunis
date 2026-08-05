@@ -1,18 +1,18 @@
-# Hey, i'm Guilherme!
+# Hi, I'm Guilherme 👋
 
-- Python Enthusiast
-- Learning FastAPI
-  
+Backend developer in the making, transitioning from an administrative role into software development. Focused on Python, FastAPI, and building solid REST APIs from the ground up.
 
-## 📊 GitHub Stats
+---
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=onunis&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onunis&layout=compact&theme=tokyonight&hide_border=true)
+### 🛠️ Stack & Tools
 
-## 🚀 Tecnologias
+| Category | Technologies |
+|---|---|
+| **Backend** | Python, FastAPI, SQLAlchemy, Pydantic |
+| **Database** | SQLite, JWT Auth, bcrypt |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Tools & Workflow** | Git & GitHub, Poetry, VS Code |
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Power BI](https://img.shields.io/badge/-Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+---
+
+Open to connecting and to junior backend opportunities.
