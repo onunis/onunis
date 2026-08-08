@@ -11,7 +11,7 @@ Backend developer in the making, transitioning from an administrative role into 
 | **Backend** | Python, FastAPI, SQLAlchemy, Pydantic |
 | **Database** | SQLite, JWT Auth, bcrypt |
 | **Frontend** | HTML5, CSS3, JavaScript |
-| **Tools & Workflow** | Git & GitHub, Poetry, VS Code |
+| **Tools & Workflow** | Docker, Git & GitHub, Poetry, VS Code |
 
 ---
 
