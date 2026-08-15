@@ -2,7 +2,7 @@
 
 Backend developer in the making, transitioning from an administrative role into software development. Focused on Python, FastAPI, Automation and building solid REST APIs from the ground up.
 
----
+----
 
 ### 🛠️ Stack & Tools
 
