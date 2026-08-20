@@ -15,6 +15,6 @@ Backend developer in the making, transitioning from an administrative role into 
 | **Tools & Workflow** | Docker, Git & GitHub, Poetry, VS Code |
 | **Also worked with** | C (fundamentals), TypeScript (mobile project), BI/Data (Power BI, automation) |
 
----
+----
 
 Open to connecting and to junior backend opportunities.
