@@ -16,5 +16,5 @@ Backend developer in the making, transitioning from an administrative role into 
 | **Also worked with** | C (fundamentals), TypeScript (mobile project), BI/Data (Power BI, automation) |
 
 ----
-
+ 
 Open to connecting and to junior backend opportunities.
