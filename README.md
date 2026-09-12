@@ -27,6 +27,6 @@ Backend developer in the making, transitioning from an administrative role into 
 - Database migrations with Alembic
 - Unit and integration tests with Pytest
 
-----
+-----
 
 Open to connecting and to junior backend opportunities.
