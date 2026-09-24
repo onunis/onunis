@@ -18,15 +18,4 @@ Backend developer in the making, transitioning from an administrative role into 
 
 ----
 
-### 🚀 Featured Project
-
-**TodoApp** — REST API built with FastAPI + SQLAlchemy + PostgreSQL, featuring:
-- Full CRUD with data validation and proper HTTP status codes
-- JWT-based authentication with hashed passwords (bcrypt)
-- Ownership-based authorization (users only access their own data) + role-based authorization (admin endpoints)
-- Database migrations with Alembic
-- Unit and integration tests with Pytest
-
------
-
 Open to connecting and to junior backend opportunities.
